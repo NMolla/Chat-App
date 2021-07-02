@@ -18,7 +18,7 @@ import java.awt.event.*;
  *
  * @author nahom
  */
-public class Homework4Client {
+public class client {
 
     /**
      * @param args the command line arguments
