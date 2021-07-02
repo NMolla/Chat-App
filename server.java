@@ -16,7 +16,7 @@ import java.util.logging.Logger;
  * @author nahom
  */
 
-public class Homework4Server {
+public class server {
     
     /**
      * @param args the command line arguments
