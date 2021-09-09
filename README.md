@@ -1,9 +1,7 @@
 # Chat-App
 
-To compile & run server use command:
-  javac server.java
+To run server use command:
   java server.java
  
-To compile & run client use command:
-  javac client.java
+To run client use command:
   java client.java
